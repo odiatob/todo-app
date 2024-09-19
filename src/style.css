@@ -1,0 +1,22 @@
+.app-container {
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+    text-align: center;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+}
+
+.edit-input {
+    margin-right: 10px;
+}
+
+button {
+    margin: 0 5px;
+    padding: 5px 10px;
+}
